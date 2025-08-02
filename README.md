@@ -1,5 +1,5 @@
 
-<img src="IMG-20250802-WA0018 (2).jpg">
+
 <h1 align="center">Hello 👋, I'm Afrin Chowdhury</h1>
 <h3 align="center">Professional Web Designer Developer & WordPress Expert Helping Businesses and Creators Build Stunning, Functional Websites — Passionate About Turning Ideas Into Digital Reality.</h3>
 
